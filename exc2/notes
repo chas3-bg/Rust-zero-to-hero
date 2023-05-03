@@ -1,0 +1,7 @@
+Data types in Rust:
+literals:
+int, floats, characters, strings
+
+Tuples
+
+Arrays, slices
